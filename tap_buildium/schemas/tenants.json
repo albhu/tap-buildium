@@ -1,0 +1,16 @@
+{
+    "type": [
+      "object"
+    ],
+    "properties": {
+        "Id": {
+            "type": ["int", "null"]
+        },
+        "FirstName": {
+            "type": ["string", "null"]
+        },
+        "LastName": {
+            "type": ["string", "null"]
+        }
+    }
+}
